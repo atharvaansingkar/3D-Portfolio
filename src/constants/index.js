@@ -111,7 +111,7 @@ const projects = [
       },
     ],
     image: lg,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/atharvaansingkar/Vision-System-Panel-Inspection/",
   },
 ];
 
